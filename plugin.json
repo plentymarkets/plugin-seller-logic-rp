@@ -1,0 +1,20 @@
+{
+	"version"           : "1.0.0",
+	"name"              : "SellerLogicRepricer",
+	"marketplaceName"   : {"de": "SellerLogic Amazon Repricer","en": "SellerLogic Amazon Repricer"},
+	"pluginIcon"        : "icon_plugin_xs.png",
+	"authorIcon"        : "icon_author_xs.png",
+	"description"       : "The way to success for Amazon sellers.",
+	"shortDescription"  : {"de": "Erfolgsrezept für Amazon-Verkäufer: Der beste Preis in der BuyBox. Verkaufen Sie mehr – zu höheren Preisen!", "en": "The way to success for Amazon sellers: Best price in the BuyBox. Sell more – at higher prices!"},
+	"author"            : "plentymarkets GmbH",
+	"price"				: 0.00,
+	"license"			: "AGPL-3.0",
+	"categories"        : ["3521"],
+	"keywords"          : ["sellerLogic", "amazon", "repricer"],
+	"type"              : "tool",
+	"isExternalTool"	: true,
+	"forwardLink"		: "https://client.sellerlogic.com/site/register?/PartnerId=fd7KJd93hK",
+	"namespace"         : "SellerLogicRepricer",
+	"serviceProvider"   : "SellerLogicRepricer",
+	"javaScriptFiles"   : []
+}
