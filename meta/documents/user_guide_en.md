@@ -29,6 +29,8 @@ Amazon does not provide sellers with any support or ways of optimization for dyn
 
 ## Flexible and fair pricing 
 
-The cost depends on the number of countries in which you sell. The quantity of SKUs you list on Amazon also affects prices. 
+The costs depend on the number of countries you sell to. The number of SKUs you offer at Amazon also affects the prices.
+
+SellerLogic offers for the "Repricer" a free trial access for 14 days. All functions are available without restriction. If the test is convincing, you can conclude a contract, either for 3, 6, 12 or 24 months. The longer the contract, the cheaper it becomes, whereby the costs for using SellerLogic also depend on the number of products (SKUs) in the Amazon shop. Between 16 Euro per month (up to 100 products; contract duration 2 years) and 1,999 Euro per month (up to 1 million products; duration 3 months) the price range is sufficient. The monthly fee always depends on the current number of listed SKUs, i.e. it adjusts automatically and dynamically.  
 
 <a class="btn btn-primary" href="https://www.sellerlogic.com/de/amazon-repricing-tool/#15" target="_blank">Price overview <i class="fa fa-external-link fa-fw align-middle" aria-hidden="true"></i></a> 

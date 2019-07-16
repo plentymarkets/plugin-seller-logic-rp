@@ -28,7 +28,9 @@ Amazon bietet dem Verkäufer keine Unterstützung oder Optimierungsmöglichkeite
 
 ## Flexible und faire Preisgestaltung 
  
-Die Kosten sind abhängig von der Anzahl der Länder, in welchen Sie verkaufen. Auch die Menge der gelisteten SKUs, die Sie bei Amazon anbieten, wirkt sich auf die Preise aus.  
+Die Kosten sind abhängig von der Anzahl der Länder, in welchen Sie verkaufen. Auch die Menge der gelisteten SKUs, die Sie bei Amazon anbieten, wirkt sich auf die Preise aus. 
+
+SellerLogic bietet für den Repricer einen kostenlosen Testzugang für 14 Tage. Dabei stehen alle Funktionen ohne Einschränkung zur Verfügung. Wenn der Test überzeugt, dann kann man einen Vertrag abschliessen, wahlweise über 3, 6, 12 oder 24 Monate. Je länger der Vertrag, um so günstiger wird es, wobei sich die Kosten für die Nutzung von SellerLogic auch nach der Anzahl der Produkte (SKUs) im Amazon-Shop richtet. Zwischen 16 Euro im Monat (bis zu 100 Produkte; Vertragslaufzeit 2 Jahre) und 1.999 Euro/ Monat (bis 1 Mio Produkte; Laufzeit 3 Monate) reicht die Preisspanne. Die monatliche Gebühr richtet sich immer nach der aktuellen Anzahl der gelisteten SKUs, passt sich also automatisch dynamisch an.  
 
 <a class="btn btn-primary" href="https://www.sellerlogic.com/de/amazon-repricing-tool/#15" target="_blank">Preisübersicht <i class="fa fa-external-link fa-fw align-middle" aria-hidden="true"></i></a>
 

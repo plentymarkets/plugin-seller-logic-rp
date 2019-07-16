@@ -5,7 +5,10 @@
 	"pluginIcon"        : "icon_plugin_xs.png",
 	"authorIcon"        : "icon_author_xs.png",
 	"description"       : "The way to success for Amazon sellers.",
-	"shortDescription"  : {"de": "Erfolgsrezept für Amazon-Verkäufer: Der beste Preis in der BuyBox. Verkaufen Sie mehr – zu höheren Preisen!", "en": "The way to success for Amazon sellers: Best price in the BuyBox. Sell more – at higher prices!"},
+	"shortDescription"  : {
+		"de": "Gewinnen Sie dynamisch und automatisiert die Buy Box und verkaufen Sie mehr – zu höheren Preisen!",
+		"en": "Win dynamically and automate the buy box and sell more - at higher prices!"
+	},
 	"author"            : "plentymarkets GmbH",
 	"price"				: 0.00,
 	"license"			: "AGPL-3.0",
