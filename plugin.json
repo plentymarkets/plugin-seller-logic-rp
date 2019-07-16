@@ -1,5 +1,5 @@
 {
-	"version"           : "1.0.0",
+	"version"           : "1.0.1",
 	"name"              : "SellerLogicRepricer",
 	"marketplaceName"   : {"de": "SellerLogic Amazon Repricer","en": "SellerLogic Amazon Repricer"},
 	"pluginIcon"        : "icon_plugin_xs.png",
